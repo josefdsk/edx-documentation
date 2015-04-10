@@ -4,8 +4,8 @@
 Student Notes Tool
 ##############################
 
-The Student Notes tool (also called "student notes") allows students to
-highlight and make notes about what they read in the body of the course.
+The Student Notes tool allows students to highlight and make notes about what
+they read in the body of the course.
 
 .. image:: /Images/SFD_SN_bodyexample.png
   :width: 500
@@ -26,7 +26,7 @@ location of the notes in the course content.
       course
 
 For detailed information about the ways students can use student notes, see
-`SFD Student Notes <http://edx.readthedocs.org/projects/doroob-student-
+`Student Notes <http://edx.readthedocs.org/projects/doroob-student-
 documentation/en/latest/SFD_student_notes.html>`_.
 
 .. update above with correct URL when notes are released on edx.org

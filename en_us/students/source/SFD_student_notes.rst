@@ -34,7 +34,7 @@ For more information, see :ref:`The Notes Tab`.
 
 .. note:: Learners who do not use a mouse can use keyboard shortcuts to create, 
  access, and delete notes. For more information about using keyboard
- shortcuts, see :ref:`SFD Student Notes Accessibility`.
+ shortcuts, see :ref:`SFD SN Keyboard Shortcuts`.
 
 
 ======================================
@@ -145,7 +145,7 @@ to see your notes.
  notes, select the pencil icon to show notes.
 
 
-.. _SFD Student Notes Accessibility:
+.. _SFD SN Keyboard Shortcuts:
 
 *********************************************
 Keyboard Shortcuts for Student Notes

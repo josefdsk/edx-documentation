@@ -9,21 +9,29 @@ Introduction to Exercises and Tools
 ************************************
 
 Studio allows you to create a wide variety of exercises and tools for your
-course. Many of these exercises and tools have templates in Studio so that you
-can create them easily. In addition, individual course teams frequently create
-exercises that don't have templates in Studio. We're striving to make these
-tools available to all our course teams as well, and we have instructions for
-creating some of them in this section.
+course. Many of these exercises and tools have templates in Studio to help you
+create exercises. In addition, individual course teams frequently create
+exercises that don't have templates in Studio. 
+
+..note:: Because not all of the available exercises and tools are developed
+  by edX, the level of support that edX can offer on each tool varies.
+  Exercises and tools that are not fully supported by edX are flagged with an
+  indicator of either provisional or no support.
+
+  Exercises and tools with provisional support might lack the robustness of
+  functionality that courses you build using edX require. Exercises and tools
+  with no support are not maintained by edX, and might be deprecated in the
+  future.
 
 Depending on the exercise or tool, you'll use an HTML, Problem, or Advanced
 component. The page for each individual exercise or tool contains an example of
 each exercise or tool, together with all the files, code, and step-by-step
 instructions that you need to create the exercise or tool.
 
-.. note:: 
-  Problems must include labels for accessibility. The label generally includes
-  the text of the main question in your problem. Instructions for adding labels
-  appear in the page for each individual problem.
+.. note:: When you create problems, you must include labels for accessibility.
+   Accessible labels generally include the text of the main question in your
+   problem. Instructions for adding labels appear in the page for each
+   individual problem.
 
 ****************************
 General Exercises and Tools
